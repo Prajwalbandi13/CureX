@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+numpy
+opencv-python
+pillow
+scikit-learn
+fastapi
+uvicorn
+python-multipart
+fpdf
+python-dotenv
+google-genai
