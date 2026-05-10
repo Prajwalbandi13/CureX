@@ -20,7 +20,7 @@ class AnalyzingAgent:
     def __init__(self):
         model_path = os.path.join(
             os.path.dirname(__file__),
-            "../Best/trained_model.h5"
+            "../EfficientNet/trained_model.h5"
         )
 
         if not os.path.exists(model_path):
